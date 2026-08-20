@@ -6,7 +6,7 @@
 
 ---
 
-TravelMate is a smart travel companion web app that uses AI to generate personalized travel itineraries based on your preferences, budget, and destination. Plan your next adventure with ease! 🌍🧳
+TravelEase is a smart travel companion web app that uses AI to generate personalized travel itineraries based on your preferences, budget, and destination. Plan your next adventure with ease! 🌍🧳
 
 ## 🚀 Features
 
